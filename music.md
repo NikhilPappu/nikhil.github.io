@@ -1,181 +1,152 @@
 ---
 layout: page
-permalink: /music/
-title: Music
-tagline: Music
+permalink: /personal/
+title: Personal
+tagline: Personal
 tags: [Music]
-modified: 6-28-2014
+modified: 
 comments: true
 image:
-  feature: diantis.jpg
-  credit: Diantis taken by me in my backyard.
+
 music:
-- name: A Change of Seasons
-  by: Dream Theater
-
-- name: Brave New World
-  by: Iron Maiden
-
-- name: Powerslave
-  by:  Iron Maiden
-
-- name: IV
-  by: Led Zeppelin
-
-- name: A Momentary Lapse of Reason
-  by: Pink Floyd
-
-- name: Are You Experienced
-  by: Jimi Hendrix
-
-- name: Out Of The Blue
-  by: Electric Light Orchestra
-
-- name: Face the Music
-  by: Electric Light Orchestra
-
-- name: The Metal Opera, Part II
-  by: Avantasia
-
-- name: Once
-  by: Nightwish
-
-- name: Century Child
-  by: Nightwish
-
-- name: Deadwing
-  by: Porcupine Tree
-
-- name: Hot Space
-  by: Queen
-
-- name: The Black Halo
-  by: Kamelot
-
-- name: Greatest Hits
-  by: The Police
+- name: Colma
+  by: Buckethead
 
 - name: Moving Pictures
   by: Rush
 
-- name: The Art of War
-  by: Sabaton
- 
-- name: Coat of Arms
-  by: Sabaton
+- name: Claymation Courtyard
+  by: Buckethead
 
-- name: The Heart Of Everything
-  by: Within Temptation
+- name: Misplaced Childhood
+  by: Marillion
 
-- name: Lateralus
-  by: Tool
+- name: Dark Side of the Moon
+  by: Pink Floyd
 
-- name: 10,000 Days
-  by: Tool
+- name: The Masquerade Overture
+  by: Pendragon
 
-- name: Dance of Death
-  by: Iron Maiden
+- name: Aqualung
+  by: Jethro Tull
 
-- name: "Metropolis Part 2: Scenes From a Memory"
-  by: Dream Theater
+- name: Hall of the Mountain King
+  by: Savatage
 
-- name: Boston
-  by: Boston
+- name: Secret Treaties
+  by: Blue Oyster Cult
 
-- name: London Calling
-  by: The Clash
+- name: Selling England by the Pound
+  by: Genesis
 
-- name: Endless Forms Most Beautiful
-  by: Nightwish
+- name: Animals
+  by: Pink Floyd
 
-- name: Haven
-  by: Kamelot
+- name: The Wall
+  by: Pink Floyd
+
+- name: Contagion
+  by: Arena
+
+- name: Sticky Fingers
+  by: The Rolling Stones
+
+- name: Ashes are Burning
+  by: Renaissance
+
+- name: Hold Me Forever
+  by: Buckethead
+
+- name: Monsters and Robots
+  by: Buckethead
+
+- name: Stationary Traveller
+  by: Camel
+
+- name: Handmade Cities
+  by: Plini
+
+- name: Muse
+  by: Polyphia
+  
+- name: The Joy of Motion
+  by: Animals as Leaders
+
 ---
-<p> A log of my favorite music tracks</p>
-<h1>Albums</h1>
+
+<h2>Workflow</h2>
+<p> I use Arch Linux with a tiling window manager (awesomeWM) and use vim for 
+most programming and editing. I mostly use free, open source and minimalist
+software for transperancy, efficiency and extensibility. As a result, I often
+prefer terminal programs and programs with vim-based bindings.</p>
+
+<h2>Hobbies</h2>
+<h3>Chess</h3>
+<p>
+I play chess regularly on chess.com and occasionally solve puzzles or learn new
+openings. I would recommend the following YouTube channels to anyone who wants
+to improve their game: Saint Louis Chess Club, ChessNetwork, PowerPlayChess,
+Agadmator's Chess Channel, and iChess.net.
+
+
+<h3>Guitar</h3>
+I picked up guitar about two years ago and have learnt a few songs since then but
+haven't been able to get to much theory or ear training.
+I recorded myself playing the guitar parts of some tracks a while back. These are
+quite off tempo and have terrible production quality. I need to make better ones
+sometime. <br>
+
+<iframe width="480" height="270" src="//www.youtube.com/embed/yxrMHqt3Jg4"
+frameborder="0" allowfullscreen></iframe>
+
+<h3>Fiction</h3>
+
+<p>I enjoy various sub genres of fiction including fantasy, sci-fi, crime,
+psychological, dystopia, steampunk and space operas in
+the form of tv shows or book series. Here are some of my favorites:
+</p>
+<ul>
+  <li>Mistborn Series</li> 
+  <li>Death Note</li> 
+  <li>Black Mirror</li> 
+  <li>Naoki Urasawa's Monster</li> 
+  <li>The Stormlight Archive</li>
+  <li>The Legend of the Galactic Heroes</li>
+  <li>The Wheel of Time Series</li>
+  <li>Cowboy Bebop</li>
+  <li>From the New World</li>
+  <li>Baccano</li>
+  <li>Psycho Pass</li>
+  <li>The Promised Neverland</li>
+</ul>
+
+<h3>Games</h3>
+
+I have a fascination for video games, their design and the various elements
+that go into them like art, animation, player interaction, challenge, music and writing
+among others. I especially fancy retro-themed indie games and strategy games.
+Here are some of my favorites: 
+
+<ul>
+  <li>Shovel Knight Series</li> 
+  <li>Fire Emblem Series</li> 
+  <li>Castlevania Series</li> 
+  <li>Zelda Series</li> 
+  <li>Advance Wars Series</li>
+  <li>Portal Series</li>
+  <li>Into the Breach</li>
+</ul>
+
+</p>
+
+<h3>Albums</h3>
+<p>A list of some of my favorite (mostly progressive and instrumental rock)
+albums.</p>
 
 <div class = "albums">
 
 </div>
 
-<h1>Tracks</h1>
-
-Dexys Midnight Runners: Come on Eileen
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/rVxcwe7EcaY" frameborder="0" allowfullscreen></iframe>
-
-Focus: Hocus Pocus
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/NGaVUApDVuY" frameborder="0" allowfullscreen></iframe>
-
-Warren Zevon: Werewolves of London
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/iDpYBT0XyvA" frameborder="0" allowfullscreen></iframe>
-
-Frank Zappa: Joe's garage
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/ZlIe5mBqIB4" frameborder="0" allowfullscreen></iframe>
-
-Ryan Star: Losing Your Memory
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/5Lt_lFTBrNI" frameborder="0" allowfullscreen></iframe>
-
-Buckethead: Carpal Tunnel Slug
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/20337145&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Yoko Kanno & Scott Matthey:Beauty is Within Us
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/QOt-sqiVQtI" frameborder="0" allowfullscreen></iframe>
-
-Yoko Kanno: Dew
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/zLiWov6aAKc" frameborder="0" allowfullscreen></iframe>
-
- 
-
-
-# Mashups
-Crocodile Chop: Elton John "Crocodile Rock" + System of a down "Chop Suey"
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/147141693&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Marley Maiden: Iron Maiden "Revelations" + Bob Marley "Exodus"
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/17218042&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Carry On My Wayward Slam: Kansas "Carry on Wayward Son" + Space Jam
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/136095566&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-We are Coming Undone: Korn "Coming Undone" + Taylor Swift "We are never getting back together"
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/QQAjHO-jzB8" frameborder="0" allowfullscreen></iframe>
-
-
-Call Me A Hole: Nine Inch Nails "Head Like A Hole" + Carly Rae Jepsen "Call Me Maybe"
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/81761778&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Owner of a Futurama: Futurama theme song + Yes "Owner Of A Lonely Heart"
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/162317527&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Never Gonna Wake You Up: Rick Astley "Never going to give you up" + Avicii "Wake Me Up"  
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/oT3mCybbhf0" frameborder="0" allowfullscreen></iframe>
-
-Thunder Busters: AC/DC: Thunderstruck + Ray Parker Jr: Ghostbusters
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141848227&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-In The End, You&#39;re An All Star: Linkin Park: In The End + Smash Mouth: All Star
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/157507703&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Royal Burn: Multiple Songs/Artists
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/HjxEe9cdQ_Q" frameborder="0" allowfullscreen></iframe>
 
 
 

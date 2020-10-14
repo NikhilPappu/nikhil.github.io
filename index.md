@@ -1,17 +1,26 @@
 ---
-layout: home
+layout: page
 description: 
 tags: [blog, template]
 image:
-  feature: lilac1.jpg 
-  credit: Lilacs taken by me in my backyard.
+  feature: 
+  credit: 
 
 ---
 
+<h1>About</h1>
+<p>
+I am a 5th year Integrated M. Tech (B.Tech + M.Tech) student of computer
+science and engineering at IIIT Bangalore, India, where I am currently working
+on my master's thesis under the supervision of <a
+href="https://sites.google.com/site/ashishcrypto/">Prof. Ashish Choudhury</a>. I
+am interested to work on areas in cryptography and distributed computing.
+</p>
+
 <script type="text/javascript">
 
-var username = 'nikhil';
-var reponame = 'nikhil.github.io';
+var username = 'NikhilPappu';
+var reponame = 'nikhilpappu.github.io';
 
 var repo = github.getRepo(username, reponame);
 

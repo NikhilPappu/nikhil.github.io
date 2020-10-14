@@ -1,22 +1,22 @@
-title:            Kumarcode
-description:      A stylish blog on my code
+title:            Nikhil Pappu
+description:      My website
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:
-url1: http://www.kumarcode.com                  
-disqus_shortname: kumarcode
+url1: http://www.nikhilpappu.info
+disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Nikhil Kumar
+  name:           Nikhil Pappu
   avatar:         bio-photo.jpg
-  bio:            "A stylish blog on my code"
-  email:          nikhilkumar516@gmail.com
+  bio:            
+  email:          nkhlpappu@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: nikhil
+  github: NikhilPappu
   stackoverflow:
-  linkedin: nikhilk2
+  linkedin: 
   instagram:
   lastfm:
   tumblr:
@@ -25,7 +25,7 @@ owner:
   steam:
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:  /u/0/104266827599169158890/posts
+  google_plus:  
 
 
 # Analytics and webmaster tools stuff goes here
@@ -37,30 +37,17 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-    icon: fa fa-user
-    count: 1    
-  - title: Posts
-    url: /posts/
-    icon: fa fa-inbox
-    count: 2    
-  - title: Gardening
-    url: /gardening/ 
-    icon: fa fa-leaf
-    count: 3   
-  - title: Arch Linux
-    url: /arch/
-    icon: icon-arch 
-    count: 4   
-  - title: music
-    url: /music/ 
-    icon: fa fa-music
-    count: 5    
-  - title: projects
-    url: /projects/ 
-    icon: fa fa-flask 
-    count: 6    
+
+  - title: Publications
+    url: /publications/
+    icon: 
+    count: 1   
+
+  - title: Personal
+    url: /personal/
+    icon: 
+    count: 2   
+  
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
