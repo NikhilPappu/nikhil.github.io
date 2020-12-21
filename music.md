@@ -72,12 +72,18 @@ music:
 - name: The Joy of Motion
   by: Animals as Leaders
 
+- name: Animals as Leaders 
+  by: Animals as Leaders
+
+- name: Newborn Sun
+  by: CHON
+
 ---
 
 <h2>Workflow</h2>
 <p> I use Arch Linux with a tiling window manager (awesomeWM) and use vim for 
-most programming and editing. I mostly use free, open source and minimalist
-software for transperancy, efficiency and extensibility. As a result, I often
+most coding and editing. I mostly use free, open source, and minimalist
+software for transparency, efficiency, and extensibility. As a result, I often
 prefer terminal programs and programs with vim-based bindings.</p>
 
 <h2>Hobbies</h2>
@@ -90,11 +96,11 @@ Agadmator's Chess Channel, and iChess.net.
 
 
 <h3>Guitar</h3>
-I picked up guitar about two years ago and have learnt a few songs since then but
-haven't been able to get to much theory or ear training.
-I recorded myself playing the guitar parts of some tracks a while back. These are
-quite off tempo and have terrible production quality. I need to make better ones
-sometime. <br>
+I picked up guitar 2 years ago and have learnt a few songs since then, but I
+haven't gotten to much theory or ear training. I recorded myself playing
+the guitar parts of some tracks a while back. These are quite off tempo and have
+terrible production quality. I need to make better ones sometime.
+<br><br>
 
 <iframe width="480" height="270" src="//www.youtube.com/embed/yxrMHqt3Jg4"
 frameborder="0" allowfullscreen></iframe>
@@ -102,8 +108,8 @@ frameborder="0" allowfullscreen></iframe>
 <h3>Fiction</h3>
 
 <p>I enjoy various sub genres of fiction including fantasy, sci-fi, crime,
-psychological, dystopia, steampunk and space operas in
-the form of tv shows or book series. Here are some of my favorites:
+psychological, dystopia, steampunk, and space operas in
+the form of TV shows or book series. Here are some of my favorites:
 </p>
 <ul>
   <li>Mistborn Series</li> 
@@ -122,10 +128,10 @@ the form of tv shows or book series. Here are some of my favorites:
 
 <h3>Games</h3>
 
-I have a fascination for video games, their design and the various elements
-that go into them like art, animation, player interaction, challenge, music and writing
-among others. I especially fancy retro-themed indie games and strategy games.
-Here are some of my favorites: 
+I have a fascination for video games and the various elements 
+that go into their design, such as art, animation, story, player interaction,
+and music among others. I especially fancy retro-themed indie games
+and strategy games. Here are some of my favorites: 
 
 <ul>
   <li>Shovel Knight Series</li> 
