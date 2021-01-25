@@ -78,6 +78,9 @@ music:
 - name: Newborn Sun
   by: CHON
 
+- name: Senpai III
+  by: Sithu Aye
+
 ---
 
 <h2>Workflow</h2>
