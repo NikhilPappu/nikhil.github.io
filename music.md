@@ -15,6 +15,9 @@ music:
 - name: Moving Pictures
   by: Rush
 
+- name: It's Alive
+  by: Buckethead
+
 - name: Claymation Courtyard
   by: Buckethead
 
