@@ -87,6 +87,9 @@ music:
 - name: Circadian
   by: Intervals
 
+- name: Effloresce
+  by: Covet
+
 ---
 
 <h2>Workflow</h2>
