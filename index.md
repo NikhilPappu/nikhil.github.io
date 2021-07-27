@@ -10,12 +10,9 @@ image:
 
 <h1>About</h1>
 <p>
-I am a 5th year Integrated M. Tech (B.Tech + M.Tech) student of computer
-science and engineering at IIIT Bangalore, India, where I am currently working
-on my master's thesis under the supervision of <a
-href="https://sites.google.com/site/ashishcrypto/">Prof. Ashish Choudhury</a>. I
-am interested to work on areas in cryptography and distributed computing.
-</p>
+I am a Computer Science graduate from IIIT Bangalore, India. I am interested in
+the areas of complexity theory, quantum computing, and more broadly in
+theoretical computer science.</p>
 
 <script type="text/javascript">
 
