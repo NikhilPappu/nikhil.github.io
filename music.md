@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /personal/music/
+permalink: /personal/
 title: Personal
 tagline: Personal
 tags: [Music]
@@ -8,45 +8,19 @@ modified:
 comments: true
 image:
 
-music:
-
-- name: New Levels New Devils
-  by: Polyphia
-
-- name: Handmade Cities
-  by: Plini
-
-- name: The Joy of Motion
-  by: Animals as Leaders
-
-- name: Newborn Sun
-  by: CHON
-
-- name: Circadian
-  by: Intervals
-
-- name: Technicolor
-  by: Covet
-
-- name: Monsters and Robots
-  by: Buckethead
-
 ---
 
 <p>Here's some things I fancy:</p>
 
 <h3>Chess</h3>
 <p>
-You can find me playing Blitz Chess on <a href="https://lichess.org/@/nickpappu">
-Lichess</a>.
+I play Blitz Chess online on Lichess. Most of my games open with the Queen's Gambit or the Caro-Kann
+defence. If memorizing openings isn't your thing, I'd recommend checking out Chess960.
 </p>
 
 <h3>Guitar</h3>
 
-Here's a somewhat off-tempo guitar cover with terrible lighting I made a while back:
-
-<iframe width="480" height="270" src="//www.youtube.com/embed/yxrMHqt3Jg4"
-frameborder="0" allowfullscreen></iframe>
+My guitar covers can be found <a href="/guitar/">here</a>:
 
 <h3>Games</h3>
 
@@ -65,14 +39,6 @@ off better than Brandon Sanderson.
 
 <h3>Music</h3>
 <p>I used to listen to retro progressive rock back in the day.
-These days, I mostly listen to instrumental math rock. Here's a few of
-my favorite instrumental albums:</p>
-
-<div class = "albums">
-
-</div>
-
-
-
-
+These days, I mostly listen to instrumental math rock.
+A list of some of my favorite instrumental albums can be found here:
 
