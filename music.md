@@ -57,7 +57,7 @@ favorites are Castlevania, Advance Wars, and Shovel Knight.
 
 <h3>Fiction</h3>
 
-<p>There's nothing quite like experiencing a new fantasy world with its own
+<p>There's nothing that captures my imagination like a fantasy world with its own
 history, politics, magic systems etc. In my opinion, no one pulls one
 off better than Brandon Sanderson.
 </p>
