@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /personal/
+permalink: /personal/music/
 title: Personal
 tagline: Personal
 tags: [Music]
