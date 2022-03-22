@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /personal/guitar
+permalink: /personal/guitar/
 title: Guitar Covers
 tagline: Guitar Covers
 tags: [Music]

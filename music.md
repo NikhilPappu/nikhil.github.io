@@ -25,8 +25,8 @@ My guitar covers can be found <a href="/personal/guitar/">here</a>.
 <h3>Games</h3>
 
 <p>
-I could never be bored of strategy RPGs or retro-themed games. Among my
-favorites are Castlevania, Advance Wars, and Shovel Knight.
+I could never be bored of strategy RPGs or retro-themed video games. Among my
+favorites are Advance Wars, Castlevania, and Shovel Knight.
 </p>
 
 <h3>Fiction</h3>
@@ -39,6 +39,6 @@ off better than Brandon Sanderson.
 
 <h3>Music</h3>
 <p>I used to listen to retro progressive rock back in the day.
-These days, I mostly listen to instrumental math rock.
+These days, I mostly listen to modern instrumental math rock.
 A list of some of my favorite instrumental albums can be found <a href="/personal/music/">here</a>.
 
