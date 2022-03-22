@@ -20,7 +20,7 @@ defence. If memorizing openings isn't your thing, I'd recommend checking out Che
 
 <h3>Guitar</h3>
 
-My guitar covers can be found <a href="/guitar/">here</a>:
+My guitar covers can be found <a href="/personal/guitar/">here</a>.
 
 <h3>Games</h3>
 
@@ -40,5 +40,5 @@ off better than Brandon Sanderson.
 <h3>Music</h3>
 <p>I used to listen to retro progressive rock back in the day.
 These days, I mostly listen to instrumental math rock.
-A list of some of my favorite instrumental albums can be found here:
+A list of some of my favorite instrumental albums can be found <a href="/personal/music/">here</a>.
 
