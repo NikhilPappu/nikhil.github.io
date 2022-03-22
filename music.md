@@ -33,6 +33,8 @@ music:
 
 ---
 
+<p>Here's some things I fancy:</p>
+
 <h3>Chess</h3>
 <p>
 You can find me playing Blitz Chess on <a href="https://lichess.org/@/nickpappu">
@@ -41,27 +43,28 @@ Lichess</a>.
 
 <h3>Guitar</h3>
 
-A somewhat off-tempo guitar cover with terrible lighting I made a while back:
+Here's a somewhat off-tempo guitar cover with terrible lighting I made a while back:
 
 <iframe width="480" height="270" src="//www.youtube.com/embed/yxrMHqt3Jg4"
 frameborder="0" allowfullscreen></iframe>
+
+<h3>Games</h3>
+
+<p>
+I could never be bored of strategy RPGs or retro-themed games. Among my
+favorites are Castlevania, Advance Wars, and Shovel Knight.
+</p>
 
 <h3>Fiction</h3>
 
 <p>There's nothing quite like experiencing a new fantasy world with its own
 history, politics, magic systems etc. In my opinion, no one pulls one
-off better Brandon Sanderson.
+off better than Brandon Sanderson.
 </p>
 
-<h3>Games</h3>
-
-<p>
-I'd never be bored of strategy RPGs or retro-themed games. Among my
-favorites are Castlevania, Advance Wars, and Shovel Knight.
-</p>
 
 <h3>Music</h3>
-<p>Retro progressive rock was all I'd listen to back in the day.
+<p>I used to listen to retro progressive rock back in the day.
 These days, I mostly listen to instrumental math rock. Here's a few of
 my favorite instrumental albums:</p>
 
