@@ -33,25 +33,24 @@ music:
 
 ---
 
-<p>Here's some things that fancy me:</p>
-
 <h3>Chess</h3>
 <p>
-You can find me playing Blitz Chess on Lichess. 
+You can find me playing Blitz Chess on <a href="https://lichess.org/@/nickpappu">
+Lichess</a>.
 </p>
 
 <h3>Guitar</h3>
 
-A rather off-tempo guitar cover with terrible lighting I made a while back:
+A somewhat off-tempo guitar cover with terrible lighting I made a while back:
 
 <iframe width="480" height="270" src="//www.youtube.com/embed/yxrMHqt3Jg4"
 frameborder="0" allowfullscreen></iframe>
 
 <h3>Fiction</h3>
 
-<p>Fantasy is the best genre regardless of medium (books,
-comics, movies, animation) and Brandon Sanderson is the GOAT. Fight
-me!
+<p>There's nothing quite like experiencing a new fantasy world with its own
+history, politics, magic systems etc. In my opinion, no one pulls one
+off better Brandon Sanderson.
 </p>
 
 <h3>Games</h3>
@@ -62,9 +61,9 @@ favorites are Castlevania, Advance Wars, and Shovel Knight.
 </p>
 
 <h3>Music</h3>
-<p>I used to listen to a lot of retro progressive rock back in the
-day. These days, I mostly listen to instrumental math rock.
-Here's a few of my favorite instrumental albums:</p>
+<p>Retro progressive rock was all I'd listen to back in the day.
+These days, I mostly listen to instrumental math rock. Here's a few of
+my favorite instrumental albums:</p>
 
 <div class = "albums">
 
