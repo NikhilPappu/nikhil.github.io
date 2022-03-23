@@ -10,7 +10,7 @@ owner:
   name:           Nikhil Pappu
   avatar:         bio-photo.jpg
   bio:            
-  email:          nkhlpappu@gmail.com
+  email:          nikpappu@pdx.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
@@ -55,7 +55,7 @@ links:
   
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 highlighter: rouge
 markdown:    kramdown
