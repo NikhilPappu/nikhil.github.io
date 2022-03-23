@@ -24,8 +24,6 @@ href="https://link.springer.com/chapter/10.1007%2F978-3-030-65277-7_35">
 Springer</a>
 <a href="/paper_1.pdf" download="paper_1.pdf"  target="_blank"> <span class
 = "socialelm">Paper</span></a>
-<a href="/slides_1.pdf" download="slides_1.pdf"  target="_blank"> <span class =
-"socialelm">Slides</span></a>
 </p>
 </li>
 </ol>
