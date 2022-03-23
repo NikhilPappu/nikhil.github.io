@@ -17,7 +17,7 @@ science. Currently, my research focuses on analyzing the security of
 classical cryptographic constructions in the presence of quantum
 adversaries.<br> <br>
 
-Previously, I was a Computer Science undergraduate at IIIT Bangalore,
+Previously, I was a computer science undergraduate at IIIT Bangalore,
 where I studied secure multiparty computation and byzantine consensus
 during my senior year.  I wrote my thesis titled <i> Perfectly-Secure
 Asynchronous Multiparty Computation for General Adversaries</i> under
