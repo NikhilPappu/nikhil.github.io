@@ -15,7 +15,7 @@ University. I am interested in the areas of cryptography, complexity
 theory, quantum computing, and more broadly in theoretical computer
 science. Currently, my research focuses on analyzing the security of
 classical cryptographic constructions in the presence of quantum
-adversaries.<br>
+adversaries.<br> <br>
 
 Previously, I was a Computer Science undergraduate at IIIT Bangalore,
 where I studied secure multiparty computation and byzantine consensus

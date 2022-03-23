@@ -3,6 +3,7 @@ layout: page
 permalink: /activities/
 title: Activities
 tagline: Activities
+tags: [Activities]
 modified: 
 comments: true
 image:
