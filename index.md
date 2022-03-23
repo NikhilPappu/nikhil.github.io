@@ -10,12 +10,12 @@ image:
 
 <h1>About</h1>
 <p>
-I am a first year Computer Science PhD student at Portland State
+I am a first year computer science PhD student at Portland State
 University. I am interested in the areas of cryptography, complexity
 theory, quantum computing, and more broadly in theoretical computer
 science. Currently, my research focuses on analyzing the security of
 classical cryptographic constructions in the presence of quantum
-adversaries.
+adversaries.<br>
 
 Previously, I was a Computer Science undergraduate at IIIT Bangalore,
 where I studied secure multiparty computation and byzantine consensus

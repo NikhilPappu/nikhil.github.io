@@ -43,10 +43,15 @@ links:
     icon: 
     count: 1   
 
+  - title: Activities
+    url: /activities/
+    icon: 
+    count: 2 
+
   - title: Personal
     url: /personal/
     icon: 
-    count: 2   
+    count: 3   
   
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
